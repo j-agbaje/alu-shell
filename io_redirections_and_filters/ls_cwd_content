@@ -1,0 +1,24 @@
+total 80
+drwxr-xr-x 2 root root  4096 Sep 22 18:48 .
+drwxr-xr-x 6 root root   103 Sep 22 14:55 ..
+-rw-r--r-- 1 root root     0 Sep 22 14:56 0-hello-world
+-rwxr--r-- 1 root root    32 Sep 22 14:58 0-hello_world
+-rw-r--r-- 1 root root     0 Sep 22 15:43 10-no_more_js
+-rwxr--r-- 1 root root    28 Sep 22 15:05 1-confused_smiley
+-rwxr--r-- 1 root root    28 Sep 22 15:44 2-hellofile
+-rwxr--r-- 1 root root    39 Sep 22 15:46 3-twofiles
+-rwxr--r-- 1 root root    36 Sep 22 15:49 4-lastlines
+-rwxr--r-- 1 root root    35 Sep 22 15:52 5-firstlines
+-rwxr--r-- 1 root root    40 Sep 22 15:54 6-third_line
+-rw-r--r-- 1 root root     0 Sep 22 16:54 7
+-rwxr--r-- 1 root root    74 Sep 22 17:16 7-file
+-rw-r--r-- 1 root root 12288 Sep 22 16:45 .7-file.swo
+-rw-r--r-- 1 root root 12288 Sep 22 16:31 .7-file.swp
+-rwxr--r-- 1 root root    36 Sep 22 18:47 8-cwd_state
+-rw-r--r-- 1 root root     0 Sep 22 15:43 9-duplicate_last_line
+-rw-r--r-- 1 root root    38 Sep 22 17:18 \*\'Best
+-rw-r--r-- 1 root root    13 Sep 22 16:28 *\"Best  School"\\*$?*****:
+-rw-r--r-- 1 root root    12 Sep 22 17:10 *\"Best School"\\*$?*****:)
+-rw-r--r-- 1 root root     0 Sep 22 18:48 ls_cwd_content
+-rw-r--r-- 1 root root     4 Sep 22 15:00 README.md
+-rw-r--r-- 1 root root     0 Sep 22 17:18 School\'\*$\?\*\*\*\*\*:)
